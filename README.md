@@ -1,5 +1,4 @@
-# AStyle
-AStyle 代码格式化工具
+# AStyle 代码格式化工具
 
 Source Insight To use:
 
